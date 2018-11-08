@@ -8,9 +8,9 @@
 
 This application requires a **_webpack_** launch
 
-- First: `npm install`
+- to init: `npm install`
 
-- Second (developer mode): `npm start`
+- to run (developer mode): `npm start`
 
-for production: `npm run build`
+- for production: `npm run build`
 
