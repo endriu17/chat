@@ -4,12 +4,13 @@
 
 ## [**Preview**](https://endriu17.github.io/chat/public/.)
 
-## How to run
-This application requires a webpack launch
+## How to run:
 
-First: `npm install`
+This application requires a **_webpack_** launch
 
-Second (developer mode): `npm start`
+- First: `npm install`
+
+- Second (developer mode): `npm start`
 
 for production: `npm run build`
 
