@@ -1,4 +1,4 @@
-# Chat
+# Chat app
 
 ## React, Express, socket
 
