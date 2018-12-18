@@ -2,7 +2,7 @@
 
 ## React, Express, socket
 
-## [**Preview**](https://endriu17.github.io/chat_react_express_socet/)
+
 
 ## How to run:
 
